@@ -8,7 +8,7 @@
 
 ## 📥 Скачать
 
-👉 **[Скачать последнюю версию](https://github.com/ВАШ_ЛОГИН/MyDockWatcher/releases/latest)**
+👉 **[Скачать последнюю версию]([https://github.com/ВАШ_ЛОГИН/MyDockWatcher/releases/latest](https://github.com/Kenotgg/MyDockWatcher-Release/releases/tag/Release))**
 
 *Прямая ссылка на .exe файл*
 
